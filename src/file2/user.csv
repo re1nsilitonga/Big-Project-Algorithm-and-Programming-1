@@ -1,0 +1,17 @@
+id;username;password;role;riwayat_penyakit;suhu_tubuh;tekanan_darah_sistolik;tekanan_darah_diastolik;detak_jantung;saturasi_oksigen;kadar_gula_darah;berat_badan;tinggi_badan;kadar_kolesterol;trombosit
+1;jeffry;j3ffry;pasien;Anemia;36.1;92;77;66;93.7;127;52.4;177;193;328
+2;michael;m1chael;pasien;COVID-19;36.6;126;85;67;96.5;175;45.7;156;235;212
+3;andrew;a3ndrew;pasien;Diabetes Mellitus;36.4;96;68;94;92.3;162;64.1;158;240;380
+4;robert;r0bert;pasien;COVID-19;36.9;110;85;73;98.7;152;62.8;157;184;390
+5;david;d4vid;dokter;Diabetes Mellitus;;;;;;;;;;;
+6;kevin;k3vin;dokter;Anemia;;;;;;;;;;;
+7;steven;s7even;manager;Influenza;;;;;;;;;;;
+8;daniel;d4niel;pasien;Diabetes Mellitus;36.7;93;87;63;97.8;136;77;172;227;380
+9;richard;r1chard;pasien;COVID-19;36.8;114;74;61;94.6;100;80.6;173;152;386
+10;henry;h3nry;pasien;Anemia;36.2;103;87;65;96.6;102;72.3;184;150;292
+11;a;b;dokter;Influenza;;;;;;;;;;;
+12;matthaus;m4tthaus;pasien;Hipertensi;36.5;120;80;70;97.0;140;70.0;175;200;350
+13;klaasen;k1aasen;pasien;Diabetes Mellitus;36.7;110;75;72;96.5;160;68.0;170;210;340
+14;haaland;h4aland;pasien;Anemia;36.3;100;70;68;95.8;150;75.0;185;180;320
+15;mbappe;m4bappe;pasien;COVID-19;36.8;130;85;75;98.0;155;65.0;160;220;360
+16;neymar;n3ymar;pasien;Diabetes Mellitus;36.4;115;78;74;97.5;145;72.0;165;195;330
